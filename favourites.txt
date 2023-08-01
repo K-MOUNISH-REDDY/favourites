@@ -1,3 +1,12 @@
+ movies:
+ =======
+raj 
+bro
+july 
+
+foods: 
+======
 noodles 
 pizza
 bud
+
